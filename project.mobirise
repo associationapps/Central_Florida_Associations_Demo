@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "local_governments..html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -457,7 +457,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/good-people-shapeimage-2000x496.png",
+              "src": "@PROJECT_PATH@/assets/images/good-people-shapeimage-1-x400-517x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
