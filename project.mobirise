@@ -665,11 +665,11 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#2b0680",
             "showMeta": true
           },
           "title": "<p><a href=\"# Simple\">  <meta content=\"text/html; charset=ISO-8859-1\" http-equiv=\"content-type\"> <title></title>   </a></p><div class=\"_EP\"><br></div><a href=\"# Simple\"> </a><p></p>",
-          "meta": "<p><a href=\"# Simple\">https://www.seminolesheriff.org/output/htmlcontent/43/apartment%20card%20updated-final.pdf</a></p>"
+          "meta": "<p><a href=\"https://www.seminolesheriff.org/output/htmlcontent/43/apartment%20card%20updated-fi\" class=\"text-primary\">click</a></p>"
         }
       ]
     }
