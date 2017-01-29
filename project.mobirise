@@ -496,7 +496,7 @@
             "paddingTop": "5",
             "paddingBottom": "5",
             "bgImageRadio": true,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/abc-cleaning-x500-2000x1116.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
