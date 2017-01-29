@@ -559,7 +559,7 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-1o",
           "_params": {
-            "paddingTop": "5",
+            "paddingTop": "0",
             "paddingBottom": "5",
             "parallax": false,
             "bgImageRadio": true,
