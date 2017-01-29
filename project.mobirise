@@ -493,11 +493,11 @@
           "_name": "content5",
           "_anchor": "content5-1l",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/abc-logo705x105-header-r072.gif",
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/abc-cleaning-x500-2000x1116.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
