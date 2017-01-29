@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 69,
+    "uniqCompNum": 73,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -204,7 +204,7 @@
             "showText": false,
             "showTitle": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Board of Directors&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0720/0720.html\" data-toolbar=\"-mbrBtnMove\">Chapter 720 HOA &nbsp; &nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0718/0718.html\" data-toolbar=\"-mbrBtnMove\">Chapter 718 Condo &nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"local_governments..html\" data-toolbar=\"-mbrBtnMove\">Local Governments</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://greatcommunities.com/SMC_Corporate_Website/Estoppel_Request.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Estoppel Request &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"testpage..html\" data-toolbar=\"-mbrBtnMove\">Test Page &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"html_test_page.html\" data-toolbar=\"-mbrBtnMove\">Photo Test &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Board of Directors&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0720/0720.html\" data-toolbar=\"-mbrBtnMove\">Chapter 720 HOA &nbsp; &nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0718/0718.html\" data-toolbar=\"-mbrBtnMove\">Chapter 718 Condo &nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"local_governments..html\" data-toolbar=\"-mbrBtnMove\">Local Governments</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://greatcommunities.com/SMC_Corporate_Website/Estoppel_Request.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Estoppel Request &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"testpage..html\" data-toolbar=\"-mbrBtnMove\">AdTest Page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"html_test_page.html\" data-toolbar=\"-mbrBtnMove\">HTML Photo Test &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"html_test_page.html\" data-toolbar=\"-mbrBtnMove\">PDF Test Pag e &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>",
           "text": "",
           "title": ""
         }
@@ -619,6 +619,34 @@
             "bgColor": "#2b0680"
           },
           "text": "<p><a href=\"# Simple\">  <meta content=\"text/html; charset=ISO-8859-1\" http-equiv=\"content-type\"> <title></title>   <img style=\"width: 100%; float: none;\" alt=\"\" src=\"http://gonetworth.com/wp-content/uploads/2013/10/ivanka-trump-net-worth1.jpg\"> <br>  </a></p>"
+        }
+      ]
+    },
+    "PDF_Test_Page.html": {
+      "settings": {
+        "title": "PDF Test Page",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-20",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgColor": "#2b0680",
+            "showMeta": true
+          },
+          "title": "<p><a href=\"http://www.pdfpdf.com/samples/Sample1.PDF\">Click Here For PDF</a></p>",
+          "meta": ""
         }
       ]
     }
