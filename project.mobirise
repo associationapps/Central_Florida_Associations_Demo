@@ -588,8 +588,8 @@
           "_name": "map2",
           "_anchor": "map2-1k",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "5",
+            "paddingTop": "1",
+            "paddingBottom": "7",
             "bgColor": "#2b0680",
             "googleMap": {
               "address": "933 Arbormoor Lake Mary, FL",
