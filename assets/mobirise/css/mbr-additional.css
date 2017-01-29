@@ -411,6 +411,10 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#content5-p .mbr-section-title,
+#content5-p p {
+  color: #fff;
+}
 #header3-1 .mbr-section-title,
 #header3-1 .mbr-section-subtitle {
   text-align: center;
@@ -419,10 +423,6 @@ h6,
   text-align: right;
   font-size: 25px;
   color: #ffffff;
-}
-#content5-p .mbr-section-title,
-#content5-p p {
-  color: #fff;
 }
 
 #msg-box8-b .mbr-section-title,
