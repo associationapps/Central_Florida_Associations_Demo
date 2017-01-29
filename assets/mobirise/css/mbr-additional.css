@@ -1,6 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
 
 
 
@@ -411,18 +416,41 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#content5-p .mbr-section-title,
-#content5-p p {
-  color: #fff;
-}
 #header3-1 .mbr-section-title,
 #header3-1 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1 H3 {
   text-align: right;
-  font-size: 25px;
+  font-size: 20px;
   color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#header3-1 SPAN {
+  font-family: 'Lora', serif;
+}
+#header3-s .mbr-section-title,
+#header3-s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-s H3 {
+  color: #ffffff;
+  font-family: 'Lora', serif;
+  font-size: 15px;
+  text-align: right;
+}
+#header3-u .mbr-section-title,
+#header3-u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-u H3 {
+  font-family: 'Lora', serif;
+  font-size: 10px;
+  color: #ffffff;
+}
+#content5-t .mbr-section-title,
+#content5-t p {
+  color: #fff;
 }
 
 #msg-box8-b .mbr-section-title,
