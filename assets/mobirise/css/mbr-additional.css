@@ -570,3 +570,7 @@ h6,
 #menu-1b .dropdown-item[aria-expanded="true"] {
   color: #e25041!important;
 }
+#content5-1l .mbr-section-title,
+#content5-1l p {
+  color: #fff;
+}
