@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "html_test_page.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 61,
+    "uniqCompNum": 65,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -598,6 +598,27 @@
               "stateDetails": ""
             }
           }
+        }
+      ]
+    },
+    "html_test_page.html": {
+      "settings": {
+        "title": "HTML Test Past",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<pre>&lt;html&gt;</pre><pre>&lt;head&gt;</pre><pre>&lt;meta content=\"text/html; charset=ISO-8859-1\"</pre><pre>http-equiv=\"content-type\"&gt;</pre><pre>&lt;title&gt;&lt;/title&gt;</pre><pre>&lt;/head&gt;</pre><pre>&lt;body&gt;</pre><pre>&lt;table style=\"text-align: left; width: 100%;\" border=\"1\" cellpadding=\"2\"</pre><pre>cellspacing=\"2\"&gt;</pre><pre>&lt;tbody&gt;</pre><pre>&lt;tr&gt;</pre><pre>&lt;td style=\"vertical-align: top;\"&gt;&lt;br&gt;</pre><pre>&lt;/td&gt;</pre><pre>&lt;td style=\"vertical-align: top;\"&gt;&lt;br&gt;</pre><pre>&lt;/td&gt;</pre><pre>&lt;td style=\"vertical-align: top;\"&gt;&lt;br&gt;</pre><pre>&lt;/td&gt;</pre><pre>&lt;td style=\"vertical-align: top;\"&gt;&lt;br&gt;</pre><pre>&lt;/td&gt;</pre><pre>&lt;td style=\"vertical-align: top;\"&gt;&lt;br&gt;</pre><pre>&lt;/td&gt;</pre><pre>&lt;td style=\"vertical-align: top;\"&gt;&lt;br&gt;</pre><pre>&lt;/td&gt;</pre><pre>&lt;/tr&gt;</pre><pre>&lt;tr&gt;</pre><pre>&lt;td style=\"vertical-align: top;\"&gt;&lt;br&gt;</pre><pre>&lt;/td&gt;</pre><pre>&lt;td style=\"vertical-align: top;\"&gt;&lt;br&gt;</pre><pre>&lt;/td&gt;</pre><pre>&lt;td style=\"vertical-align: top;\"&gt;&lt;br&gt;</pre><pre>&lt;/td&gt;</pre><pre>&lt;td style=\"vertical-align: top;\"&gt;&lt;br&gt;</pre><pre>&lt;/td&gt;</pre><pre>&lt;td style=\"vertical-align: top;\"&gt;&lt;br&gt;</pre><pre>&lt;/td&gt;</pre><pre>&lt;td style=\"vertical-align: top;\"&gt;&lt;br&gt;</pre><pre>&lt;/td&gt;</pre><pre>&lt;/tr&gt;</pre><pre>&lt;/tbody&gt;</pre><pre>&lt;/table&gt;</pre><pre>&lt;br&gt;</pre><pre>&lt;/body&gt;</pre><pre>&lt;/html&gt;</pre><pre><br></pre><pre><br></pre>"
         }
       ]
     }
