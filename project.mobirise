@@ -493,8 +493,8 @@
           "_name": "content5",
           "_anchor": "content5-1l",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/abc-cleaning-x500-2000x1116.jpg",
