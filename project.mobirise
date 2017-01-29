@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "local_governments..html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -195,7 +195,7 @@
             "showText": false,
             "showTitle": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Board of Directors</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0720/0720.html\" data-toolbar=\"-mbrBtnMove\">Chapter 720 HOA<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0718/0718.html\" data-toolbar=\"-mbrBtnMove\">Chapter 718 Condo<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Local Governments</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Board of Directors</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Board of Directors</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Board of Directors</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0720/0720.html\" data-toolbar=\"-mbrBtnMove\">Chapter 720 HOA<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0718/0718.html\" data-toolbar=\"-mbrBtnMove\">Chapter 718 Condo<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"local_governments..html\" data-toolbar=\"-mbrBtnMove\">Local Governments</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Board of Directors</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Board of Directors</a>",
           "text": "",
           "title": "",
           "_styles": {
