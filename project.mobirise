@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "sample_bod.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -258,7 +258,9 @@
             "H3": {
               "color": "#ffffff",
               "font-size": "20px",
-              "text-align": "right"
+              "text-align": "right",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_tags": [
@@ -287,10 +289,10 @@
           "_name": "content5",
           "_anchor": "content5-n",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "5",
             "bgImageRadio": true,
-            "parallax": true,
+            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/header-2000x1330.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
@@ -322,8 +324,9 @@
             },
             ".mbr-section-lead SPAN": {
               "color": "#ffffff",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "center"
             }
           },
           "_tags": [
@@ -345,14 +348,14 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "left",
+            "contentAlign": "center",
             "showTitle": false,
             "showText": true,
             "showButtons": true
           },
           "title": "",
           "text": "<span style=\"font-size: 1.125rem; line-height: 1.5;\">Click below to email a Director</span><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"mailto:ncmountaindawg@gmail.com\" data-toolbar=\"-mbrBtnMove\">Bob Smith</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"mailto:ncmountaindawg@gmail.com\" data-toolbar=\"-mbrBtnMove\">Sue Brown</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Peter Kauffmann</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"mailto:ncmountaindawg@gmail.com\" data-toolbar=\"-mbrBtnMove\">Bob Smith &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"mailto:ncmountaindawg@gmail.com\" data-toolbar=\"-mbrBtnMove\">Sue Brown &nbsp; &nbsp; &nbsp; &nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Peter Kauffmann</a>"
         }
       ]
     },
