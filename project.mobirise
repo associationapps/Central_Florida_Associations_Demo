@@ -493,7 +493,7 @@
           "_name": "content5",
           "_anchor": "content5-1l",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": false,
