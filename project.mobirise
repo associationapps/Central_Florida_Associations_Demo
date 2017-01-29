@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "testpage..html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -16,7 +16,7 @@
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       }
     },
@@ -199,12 +199,12 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
+            "inverse": false,
             "showButtons": true,
             "showText": false,
             "showTitle": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Board of Directors</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0720/0720.html\" data-toolbar=\"-mbrBtnMove\">Chapter 720 HOA<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0718/0718.html\" data-toolbar=\"-mbrBtnMove\">Chapter 718 Condo<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"local_governments..html\" data-toolbar=\"-mbrBtnMove\">Local Governments</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://greatcommunities.com/SMC_Corporate_Website/Estoppel_Request.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Estoppel Request &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"testpage..html\" data-toolbar=\"-mbrBtnMove\">Test Pages</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Board of Directors&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0720/0720.html\" data-toolbar=\"-mbrBtnMove\">Chapter 720 HOA &nbsp; &nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0718/0718.html\" data-toolbar=\"-mbrBtnMove\">Chapter 718 Condo &nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"local_governments..html\" data-toolbar=\"-mbrBtnMove\">Local Governments</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://greatcommunities.com/SMC_Corporate_Website/Estoppel_Request.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Estoppel Request &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"testpage..html\" data-toolbar=\"-mbrBtnMove\">Test Page &nbsp; &nbsp; &nbsp; &nbsp;s &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>",
           "text": "",
           "title": ""
         }
