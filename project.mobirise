@@ -560,7 +560,7 @@
           "_anchor": "msg-box8-1o",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "5",
+            "paddingBottom": "4",
             "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/abc-cleaning-x370-2000x1113.jpg",
