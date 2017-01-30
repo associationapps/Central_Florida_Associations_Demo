@@ -507,6 +507,7 @@ h6,
   font-size: 12px;
 }
 
+
 #header3-17 .mbr-section-title,
 #header3-17 .mbr-section-subtitle {
   text-align: center;
@@ -531,13 +532,14 @@ h6,
 #menu-1b .link,
 #menu-1b .dropdown-item {
   color: #ffffff;
+  font-family: 'Lora', serif;
 }
 #menu-1b .link {
-  font-size: 0.75rem;
+  font-size: 1.2rem;
 }
 #menu-1b .dropdown-item,
 #menu-1b .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.300rem;
 }
 #menu-1b .link:hover,
 #menu-1b .dropdown-item:hover,

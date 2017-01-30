@@ -390,7 +390,7 @@
             "bgColor": "#2b0680",
             "showMeta": false
           },
-          "title": "<br><br><br><br><br><br><br><br><br><br><br><br>",
+          "title": "<br><br><br><br><br><span style=\"font-weight: normal;\">Home Page</span><br><br><br><br><br><br><br>",
           "meta": ""
         },
         {
@@ -410,13 +410,15 @@
               "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-family": "'Lora', serif"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1.2rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.300rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -451,16 +453,20 @@
           "_anchor": "menu-1b",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Lora",
+              "url": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "css": "'Lora', serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
             "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
           },
           "logo": {
             "image": {
