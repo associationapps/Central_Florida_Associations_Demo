@@ -390,7 +390,7 @@
             "bgColor": "#2b0680",
             "showMeta": false
           },
-          "title": "<br><br><br><br><br><span style=\"font-weight: normal;\">Home Page</span><br><br><br><br><br><br><br>",
+          "title": "<br><br><br><br><br><span style=\"font-weight: normal;\"><a href=\"index.html\">Home Page</a></span><br><br><br><br><br><br><br>",
           "meta": ""
         },
         {
