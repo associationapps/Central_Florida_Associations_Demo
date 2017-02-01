@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 85,
+    "uniqCompNum": 86,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -626,39 +626,17 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "color": "#2b0680"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-2c",
+          "_name": "content1",
+          "_anchor": "content1-2d",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/ivanka-trump-hot-11-x1333x2000-2000x3000.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#2b0680",
-            "showTitle": false,
-            "showCaption": false
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
           },
-          "title": "",
-          "caption": ""
+          "text": "<p><a href=\"#\">  <meta content=\"text/html; charset=ISO-8859-1\" http-equiv=\"content-type\"> <title></title> <img src=\"picts/responsive-image.jpg\" style=\"max-width: 100%; height: auto;\" alt=\"Image Description\">   <img alt=\"Alternate Text\" src=\"@PROJECT_PATH@/assets/images/ivanka-trump-hot-11-x1333x2000.jpg\"> <br>  </a>Apps\\Association Apps\\Photos\\ivanka-trump-hot-11 x1333x2000.jpg</p>"
         }
       ]
     },
