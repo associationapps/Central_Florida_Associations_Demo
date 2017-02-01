@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "index.html",
-    "name": "My Site",
+    "currentPage": "html_test_page.html",
+    "name": "HOA Apps",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,8 +21,12 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 83,
-    "versionPublish": "3.11.1"
+    "uniqCompNum": 85,
+    "versionPublish": "3.11.1",
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -622,17 +626,39 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#2b0680"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-1v",
+          "_name": "content5",
+          "_anchor": "content5-2c",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "7",
-            "bgColor": "#2b0680"
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/ivanka-trump-hot-11-x1333x2000-2000x3000.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#2b0680",
+            "showTitle": false,
+            "showCaption": false
           },
-          "text": "<p><a href=\"# Simple\">  <meta content=\"text/html; charset=ISO-8859-1\" http-equiv=\"content-type\"> <title></title>   <img style=\"width: 100%; float: none;\" alt=\"\" src=\"http://gonetworth.com/wp-content/uploads/2013/10/ivanka-trump-net-worth1.jpg\"> <br>  </a></p>"
+          "title": "",
+          "caption": ""
         }
       ]
     },

@@ -590,6 +590,13 @@ h6,
 #msg-box8-1o p {
   color: #fff;
 }
+#content5-2c .mbr-section-title,
+#content5-2c p {
+  color: #fff;
+}
+#content5-2c P {
+  color: #2b0680;
+}
 #header3-20 .mbr-section-title,
 #header3-20 .mbr-section-subtitle {
   text-align: center;
