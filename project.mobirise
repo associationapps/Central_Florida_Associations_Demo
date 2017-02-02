@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "html_test_page.html",
+    "currentPage": "kompuserve.html",
     "name": "HOA Apps",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 89,
+    "uniqCompNum": 90,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -723,7 +723,31 @@
         "title": "Kompuserve Board List",
         "meta_descr": "Web Creator Description"
       },
-      "components": []
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2h",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#2b0680",
+            "showMeta": true
+          },
+          "title": "<p><a href=\"#\">    <div style=\"text-align: center;\"><img style=\"width: 400px; height: 266px;\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/header-2.jpg\"></div>  </a></p>",
+          "meta": "<p><a href=\"#\">    </a></p><div style=\"text-align: left;\"><a href=\"#\"> </a><div style=\"text-align: left;\"><a href=\"#\">    <div style=\"text-align: left;\"> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Betty Smith<br> </span> <div style=\"text-align: left;\">myemail@gmail.com<br> </div> </div> <span style=\"font-weight: bold;\"></span><br> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Bob Brown</span>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </div> <span style=\"font-weight: bold;\"></span><br> <span style=\"font-weight: bold;\"></span><br> </div> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Louis Smart&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </span></div>  </a><a href=\"#\"><span style=\"font-weight: bold;\"></span></a></div></div><br><p></p>"
+        }
+      ]
     }
   }
 }

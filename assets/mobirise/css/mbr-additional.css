@@ -609,3 +609,10 @@ h6,
 #header3-22 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-2h .mbr-section-title,
+#header3-2h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2h SMALL {
+  text-align: right;
+}
