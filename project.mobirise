@@ -643,7 +643,7 @@
             "showMeta": true
           },
           "title": "<p><a href=\"#\">    <div style=\"text-align: center;\"><img style=\"width: 650px; height: 109px;\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/mid-state-pro-header.png\"></div>  </a></p>",
-          "meta": "<p><a href=\"#\">    <div style=\"text-align: center;\"><img style=\"width: 500px; height: 716px;\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/ivanka-trump-hot-11-2.jpg\"></div>  </a><a href=\"#\"></a>y John Smith posted July 20, 2016</p>"
+          "meta": "<p><a href=\"#\">    </a></p><div style=\"text-align: center;\"><a href=\"#\"><img style=\"width: 500px; height: 716px;\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/ivanka-trump-hot-11-2.jpg\"></a></div><br><p></p>"
         }
       ]
     },
