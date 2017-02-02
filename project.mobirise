@@ -636,7 +636,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><a href=\"#\">  <meta content=\"text/html; charset=ISO-8859-1\" http-equiv=\"content-type\"> <title></title> <img src=\"picts/responsive-image.jpg\" style=\"max-width: 100%; height: auto;\" alt=\"Image Description\">   <img alt=\"Alternate Text\" src=\"@PROJECT_PATH@/assets/images/ivanka-trump-hot-11-x1333x2000.jpg\"> <br>  </a>Apps\\Association Apps\\Photos\\ivanka-trump-hot-11 x1333x2000.jpg</p>"
+          "text": "<p><a href=\"#\">  <meta content=\"text/html; charset=ISO-8859-1\" http-equiv=\"content-type\"> <title></title> <img src=\"picts/responsive-image.jpg\" style=\"max-width: 80%; height: auto;\" alt=\"Image Description\">   <img alt=\"Alternate Text\" src=\"@PROJECT_PATH@/assets/images/ivanka-trump-hot-11.jpg\"> <br>  </a><a href=\"#\"></a><a href=\"#\"></a>Apps\\Association Apps\\Photos\\ivanka-trump-hot-11 x1333x2000.jpg</p>"
         }
       ]
     },
