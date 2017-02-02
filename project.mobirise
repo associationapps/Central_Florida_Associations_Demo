@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 86,
+    "uniqCompNum": 89,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -626,17 +626,24 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-2d",
+          "_name": "header3",
+          "_anchor": "header3-2g",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "7",
-            "bgColor": "#2b0680"
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
           },
-          "text": "<p><a href=\"#\">  <meta content=\"text/html; charset=ISO-8859-1\" http-equiv=\"content-type\"> <title></title> <img src=\"picts/responsive-image.jpg\" style=\"max-width: 100%; height: auto;\" alt=\"ivanka-trump-hot-11.jpg\">   <img alt=\"Alternate Text\" src=\"@PROJECT_PATH@/assets/images/ivanka-trump-hot-11.jpg\"> <br></a><a href=\"#\"></a><br></p>"
+          "title": "<p><a href=\"#\">    <div style=\"text-align: center;\"><img style=\"width: 650px; height: 109px;\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/mid-state-pro-header.png\"></div>  </a></p>",
+          "meta": "<p><a href=\"#\">    <div style=\"text-align: center;\"><img style=\"width: 500px; height: 716px;\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/ivanka-trump-hot-11-2.jpg\"></div>  </a><a href=\"#\"></a>y John Smith posted July 20, 2016</p>"
         }
       ]
     },
