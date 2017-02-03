@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 103,
+    "uniqCompNum": 109,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -181,35 +181,35 @@
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-w",
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "0",
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2b0680",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2b0680",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": false,
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Board of Directors&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0720/0720.html\" data-toolbar=\"-mbrBtnMove\">Chapter 720 HOA &nbsp; &nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0718/0718.html\" data-toolbar=\"-mbrBtnMove\">Chapter 718 Condo &nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"local_governments..html\" data-toolbar=\"-mbrBtnMove\">Local Governments</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://greatcommunities.com/SMC_Corporate_Website/Estoppel_Request.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Estoppel Request &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"testpage..html\" data-toolbar=\"-mbrBtnMove\">AdTest Page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"html_test_page.html\" data-toolbar=\"-mbrBtnMove\">HTML Photo Test &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"PDF_Test_Page.html\" data-toolbar=\"-mbrBtnMove\">PDF Test Page &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kompuserve.html\" data-toolbar=\"-mbrBtnMove\">Test BOD PDF Test Page &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>",
           "text": "",
           "title": "",
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lora:400,700);\n.btn {\n\tfont-family: 'Lora', serif;\n}\n",
-          "_customHTML": "<section class=\"mbr-info mbr-info-extra mbr-section mbr-section-md-padding\" style=\"background-color: rgb(43, 6, 128); padding-top: 0px; padding-bottom: 90px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n\n\n            \n\n\n            <div class=\"mbr-table-md-up\">\n                <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left\">\n                    \n                    \n                </div>\n\n                <div class=\"mbr-table-cell col-md-4\">\n                    <div class=\"text-xs-left\"><a class=\"btn btn-primary mbr-editable-button\" href=\"sample_bod.html\" code-editable-id=\"300\">Board of Directors&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0720/0720.html\" code-editable-id=\"301\">Chapter 720 HOA &nbsp; &nbsp;<br></a> <a class=\"btn btn-primary mbr-editable-button\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0718/0718.html\" code-editable-id=\"302\">Chapter 718 Condo &nbsp;<br></a> <a class=\"btn btn-primary mbr-editable-button\" href=\"local_governments..html\" code-editable-id=\"303\">Local Governments</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"http://greatcommunities.com/SMC_Corporate_Website/Estoppel_Request.html\" target=\"_blank\" code-editable-id=\"304\">Estoppel Request &nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"testpage..html\" code-editable-id=\"305\">AdTest Page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"html_test_page.html\" code-editable-id=\"306\">HTML Photo Test &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"PDF_Test_Page.html\" code-editable-id=\"307\">PDF Test Page &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"kompuserve.html\" code-editable-id=\"308\">Test BOD PDF Test Page &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></div>\n                </div>\n            </div>\n\n\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-info mbr-info-extra mbr-section mbr-section-md-padding\" style=\"background-color: rgb(43, 6, 128); padding-top: 0px; padding-bottom: 90px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n\n\n            \n\n\n            <div class=\"mbr-table-md-up\">\n                <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left\">\n                    \n                    \n                </div>\n\n                <div class=\"mbr-table-cell col-md-4\">\n                    <div class=\"text-xs-left\"><a class=\"btn btn-primary mbr-editable-button\" href=\"sample_bod.html\" code-editable-id=\"37\">Board of Directors&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0720/0720.html\" code-editable-id=\"38\">Chapter 720 HOA &nbsp; &nbsp;<br></a> <a class=\"btn btn-primary mbr-editable-button\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0718/0718.html\" code-editable-id=\"39\">Chapter 718 Condo &nbsp;<br></a> <a class=\"btn btn-primary mbr-editable-button\" href=\"local_governments..html\" code-editable-id=\"40\">Local Governments</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"http://greatcommunities.com/SMC_Corporate_Website/Estoppel_Request.html\" target=\"_blank\" code-editable-id=\"41\">Estoppel Request &nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"testpage..html\" code-editable-id=\"42\">AdTest Page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"html_test_page.html\" code-editable-id=\"43\">HTML Photo Test &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"PDF_Test_Page.html\" code-editable-id=\"44\">PDF Test Page &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"kompuserve.html\" code-editable-id=\"45\">Test BOD PDF Test Page&nbsp;</a></div>\n                </div>\n            </div>\n\n\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "msg-box1-w"
         }
       ]
     },
@@ -728,20 +728,20 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2h",
           "_params": {
+            "showMeta": true,
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#2b0680",
-            "showMeta": true
+            "bgColor": "#2b0680"
           },
           "title": "<p><a href=\"#\">    <div style=\"text-align: center;\"><img style=\"width: 400px; height: 266px;\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/header-2.jpg\"></div>  </a></p>",
           "meta": "<p><a href=\"#\">    </a></p><div style=\"text-align: left;\"><a href=\"#\"> </a><div style=\"text-align: left;\"><a href=\"#\">    <div style=\"text-align: left;\"> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Betty Smith<br> </span> <div style=\"text-align: left;\">myemail@gmail.com<br> </div> </div> <span style=\"font-weight: bold;\"></span><br> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Bob Brown</span>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </div> <span style=\"font-weight: bold;\"></span><br> <span style=\"font-weight: bold;\"></span><br> </div> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Louis Smart&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </span></div>  </a><a href=\"#\"><span style=\"font-weight: bold;\"></span></a></div></div><br><p></p>",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(43, 6, 128); padding-top: 0px; padding-bottom: 0px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"51\"><p><a href=\"#\">    </a></p><div style=\"text-align: center;\"><a href=\"#\"><img style=\"width: 400px; height: 266px;\" alt=\"\" img=\"\" {=\"\" max-width:=\"\" 100%;=\"\" height:=\"\" auto;=\"\" }=\"\" src=\"@PROJECT_PATH@/assets/images/header-2.jpg\"></a></div><a href=\"#\">  </a><p></p></h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"52\"><p><a href=\"#\">    </a></p><div style=\"text-align: left;\"><a href=\"#\"> </a><div style=\"text-align: left;\"><a href=\"#\">    <div style=\"text-align: left;\"> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Betty Smith<br> </span> <div style=\"text-align: left;\">associationapps@gmail.com<br> </div> </div> <span style=\"font-weight: bold;\"></span><br> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Bob Brown</span>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </div> <span style=\"font-weight: bold;\"></span><br> <span style=\"font-weight: bold;\"></span><br> </div> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Louis Smart&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </span></div>  </a><a href=\"#\"><span style=\"font-weight: bold;\"></span></a></div></div><br><p></p></small>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(43, 6, 128); padding-top: 0px; padding-bottom: 0px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"493\"><p><a href=\"#\">    </a></p><div style=\"text-align: center;\"><a href=\"#\"><img style=\"width: 400px; height: 266px;\" alt=\"\" img=\"\" {=\"\" max-width:=\"\" 100%;=\"\" height:=\"\" auto;=\"\" }=\"\" src=\"@PROJECT_PATH@/assets/images/header-2.jpg\"></a></div><a href=\"#\">  </a><p></p></h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"494\"><p><a href=\"#\">    </a></p><div style=\"text-align: left;\"><a href=\"#\"> </a><div style=\"text-align: left;\"><a href=\"#\">    <div style=\"text-align: left;\"> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Betty Smith<br> </span> <div style=\"text-align: left;\">associationapps@gmail.com<br> </div> </div> <span style=\"font-weight: bold;\"></span><br> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Bob Brown</span>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </div> <span style=\"font-weight: bold;\"></span><br> <span style=\"font-weight: bold;\"></span><br> </div> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Louis Smart&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </span></div>  </a><a href=\"#\"><span style=\"font-weight: bold;\"></span></a></div></div><br><p></p></small>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\nSMALL {\n\ttext-align: right;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "header3-2h"
         }
       ]
     },
@@ -775,7 +775,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2p",
+          "_anchor": "header3-2v",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -802,7 +802,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2q",
+          "_anchor": "header3-2w",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -831,7 +831,7 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2r",
+          "_anchor": "header3-2x",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -842,36 +842,36 @@
           "meta": ""
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-2s",
           "_params": {
+            "showTitle": false,
+            "showCaption": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc00015-2000x1124.jpg",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "showTitle": false,
-            "showCaption": false
+            "overlayOpacity": 0.5
           },
           "title": "",
-          "caption": ""
+          "caption": "",
+          "_customHTML": "<section class=\"mbr-section mbr-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/dsc00015-2000x1124.jpg); padding-top: 120px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(0, 0, 0);\">\n    </div>\n\n    <div class=\"container\">\n        \n        \n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, p {\n\tcolor: #fff;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "content5-2y"
         },
         {
           "_tags": [
@@ -883,7 +883,7 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "content1-2t",
+          "_anchor": "content1-2z",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -896,35 +896,35 @@
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-2u",
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "0",
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2b0680",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2b0680",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": false,
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"sample_bod.html\" data-toolbar=\"-mbrBtnMove\">Board of Directors&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0720/0720.html\" data-toolbar=\"-mbrBtnMove\">Chapter 720 HOA &nbsp; &nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0718/0718.html\" data-toolbar=\"-mbrBtnMove\">Chapter 718 Condo &nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"local_governments..html\" data-toolbar=\"-mbrBtnMove\">Local Governments</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://greatcommunities.com/SMC_Corporate_Website/Estoppel_Request.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Estoppel Request &nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"testpage..html\" data-toolbar=\"-mbrBtnMove\">AdTest Page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"html_test_page.html\" data-toolbar=\"-mbrBtnMove\">HTML Photo Test &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"PDF_Test_Page.html\" data-toolbar=\"-mbrBtnMove\">PDF Test Page &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"kompuserve.html\" data-toolbar=\"-mbrBtnMove\">Test BOD PDF Test Page &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a>",
           "text": "",
           "title": "",
-          "_customHTML": "<section class=\"mbr-info mbr-info-extra mbr-section mbr-section-md-padding\" style=\"background-color: rgb(43, 6, 128); padding-top: 0px; padding-bottom: 90px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n\n\n            \n\n\n            <div class=\"mbr-table-md-up\">\n                <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-center text-md-left\">\n                    \n                    \n                </div>\n\n                <div class=\"mbr-table-cell col-md-4\">\n                    <div class=\"text-xs-center\"><a class=\"btn btn-primary mbr-editable-button\" href=\"sample_bod.html\" code-editable-id=\"273\">Board of Directors&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0720/0720.html\" code-editable-id=\"274\">Chapter 720 HOA &nbsp; &nbsp;<br></a> <a class=\"btn btn-primary mbr-editable-button\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0718/0718.html\" code-editable-id=\"275\">Chapter 718 Condo &nbsp;<br></a> <a class=\"btn btn-primary mbr-editable-button\" href=\"local_governments..html\" code-editable-id=\"276\">Local Governments</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"http://greatcommunities.com/SMC_Corporate_Website/Estoppel_Request.html\" target=\"_blank\" code-editable-id=\"277\">Estoppel Request &nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"testpage..html\" code-editable-id=\"278\">AdTest Page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"html_test_page.html\" code-editable-id=\"279\">HTML Photo Test &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"PDF_Test_Page.html\" code-editable-id=\"280\">PDF Test Page &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"kompuserve.html\" code-editable-id=\"281\">Test BOD PDF Test Page &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a></div>\n                </div>\n            </div>\n\n\n        </div>\n    </div>\n</section>",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lora:400,700);\n.btn {\n\tfont-family: 'Lora', serif;\n}\n",
+          "_customHTML": "<section class=\"mbr-info mbr-info-extra mbr-section mbr-section-md-padding\" style=\"background-color: rgb(43, 6, 128); padding-top: 0px; padding-bottom: 0px;\">\n<div class=\"mbr-table-cell col-md-5 text-xs-center text-md-center content-size\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n\n\n            \n\n\n            <div class=\"mbr-table-md-up\">\n                <div class=\"mbr-table-cell mbr-right-padding-md-up col-md-8 text-xs-left text-md-left\">\n                    \n               \n                </div>\n\n                <div class=\"mbr-table-cell col-md-4\">\n                   \n                    <div class=\"text-xs-left\"><a class=\"btn btn-primary mbr-editable-button\" href=\"sample_bod.html\" code-editable-id=\"507\">Board of Directors&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0720/0720.html\" code-editable-id=\"508\">Chapter 720 HOA &nbsp; &nbsp;<br></a> <a class=\"btn btn-primary mbr-editable-button\" href=\"http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&amp;URL=0700-0799/0718/0718.html\" code-editable-id=\"509\">Chapter 718 Condo &nbsp;<br></a> <a class=\"btn btn-primary mbr-editable-button\" href=\"local_governments..html\" code-editable-id=\"510\">Local Governments</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"http://greatcommunities.com/SMC_Corporate_Website/Estoppel_Request.html\" target=\"_blank\" code-editable-id=\"511\">Estoppel Request &nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"testpage..html\" code-editable-id=\"512\">AdTest Page &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"html_test_page.html\" code-editable-id=\"513\">HTML Photo Test &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"PDF_Test_Page.html\" code-editable-id=\"514\">PDF Test Page &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</a> <a class=\"btn btn-primary mbr-editable-button\" href=\"kompuserve.html\" code-editable-id=\"515\">&nbsp;BOD Test Page&nbsp;</a></div>\n                </div>\n            </div>\n\n\n        </div>\n    </div>\n</div></section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lora:400,700);\n.btn {\n\tfont-family: 'Lora', serif;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "msg-box1-30"
         }
       ]
     }
