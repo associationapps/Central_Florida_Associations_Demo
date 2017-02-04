@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "kompuserve.html",
     "name": "HOA Apps",
     "theme": {
       "name": "mobirise3",
@@ -720,7 +720,9 @@
     "kompuserve.html": {
       "settings": {
         "title": "Kompuserve Board List",
-        "meta_descr": "Web Creator Description"
+        "meta_descr": "Web Creator Description",
+        "footer_custom": "<html>\n<head>\n</head>\n<body>\n<big><big><big><big><big><a href=\"mailto:ncmountaindawg@gmail.com\">What</a>\nthe <a href=\"http://www.greatcommunities.com\">hell</a> is <a\nhref=\"%3Ca%20href=%22tel:1-407-927-5208%22%3E1-407-927-5208%3C/a%3E\">this</a>?</big></big></big></big></big>\n</body>\n</html>\n\n",
+        "header_custom": ""
       },
       "components": [
         {
@@ -736,7 +738,7 @@
           },
           "title": "<p><a href=\"#\">    <div style=\"text-align: center;\"><img style=\"width: 400px; height: 266px;\" alt=\"\" src=\"@PROJECT_PATH@/assets/images/header-2.jpg\"></div>  </a></p>",
           "meta": "<p><a href=\"#\">    </a></p><div style=\"text-align: left;\"><a href=\"#\"> </a><div style=\"text-align: left;\"><a href=\"#\">    <div style=\"text-align: left;\"> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Betty Smith<br> </span> <div style=\"text-align: left;\">myemail@gmail.com<br> </div> </div> <span style=\"font-weight: bold;\"></span><br> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Bob Brown</span>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </div> <span style=\"font-weight: bold;\"></span><br> <span style=\"font-weight: bold;\"></span><br> </div> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Louis Smart&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </span></div>  </a><a href=\"#\"><span style=\"font-weight: bold;\"></span></a></div></div><br><p></p>",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(43, 6, 128); padding-top: 0px; padding-bottom: 0px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"493\"><p><a href=\"#\">    </a></p><div style=\"text-align: center;\"><a href=\"#\"><img style=\"width: 400px; height: 266px;\" alt=\"\" img=\"\" {=\"\" max-width:=\"\" 100%;=\"\" height:=\"\" auto;=\"\" }=\"\" src=\"@PROJECT_PATH@/assets/images/header-2.jpg\"></a></div><a href=\"#\">  </a><p></p></h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"494\"><p><a href=\"#\">    </a></p><div style=\"text-align: left;\"><a href=\"#\"> </a><div style=\"text-align: left;\"><a href=\"#\">    <div style=\"text-align: left;\"> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Betty Smith<br> </span> <div style=\"text-align: left;\">associationapps@gmail.com<br> </div> </div> <span style=\"font-weight: bold;\"></span><br> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Bob Brown</span>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </div> <span style=\"font-weight: bold;\"></span><br> <span style=\"font-weight: bold;\"></span><br> </div> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Louis Smart&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </span></div>  </a><a href=\"#\"><span style=\"font-weight: bold;\"></span></a></div></div><br><p></p></small>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(43, 6, 128); padding-top: 0px; padding-bottom: 0px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"45\"><p><a href=\"#\">    </a></p><div style=\"text-align: center;\"><a href=\"#\"><img style=\"width: 400px; height: 266px;\" alt=\"\" img=\"\" {=\"\" max-width:=\"\" 100%;=\"\" height:=\"\" auto;=\"\" }=\"\" src=\"@PROJECT_PATH@/assets/images/header-2.jpg\"></a></div><a href=\"#\">  </a><p></p></h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"46\"><p><a href=\"#\">    </a></p><div style=\"text-align: left;\"><a href=\"#\"> </a><div style=\"text-align: left;\"><a href=\"#\">    <div style=\"text-align: left;\"> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Betty Smith<br> </span> <div style=\"text-align: left;\">associationapps@gmail.com<br> </div> </div> <span style=\"font-weight: bold;\"></span><br> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Bob Brown</span>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </div> <span style=\"font-weight: bold;\"></span><br> <span style=\"font-weight: bold;\"></span><br> </div> <div style=\"text-align: left;\"><span style=\"font-weight: bold;\">Louis Smart&nbsp;&nbsp; &nbsp;&nbsp; <br> myemail@gmail.com<br> </span></div>  </a><a href=\"#\"><span style=\"font-weight: bold;\"></span></a></div></div><br><p></p></small>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\nSMALL {\n\ttext-align: right;\n}\n",
@@ -927,6 +929,20 @@
           "_anchor": "msg-box1-30"
         }
       ]
+    },
+    "page8.html": {
+      "settings": {
+        "title": "Website Creator Title",
+        "meta_descr": "Website Creator Description"
+      },
+      "components": []
+    },
+    "page9.html": {
+      "settings": {
+        "title": "Web Site Builder Title",
+        "meta_descr": "Web Site Builder Description"
+      },
+      "components": []
     }
   }
 }
