@@ -486,3 +486,26 @@ h6,
   font-size: 13px;
   color: #ffffff;
 }
+#header3-o .mbr-section-title,
+#header3-o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-o H3 {
+  color: #ffffff;
+  text-align: right;
+  font-size: 30px;
+}
+#header3-o SMALL {
+  color: #b8312f;
+}
+#custom-html-p {
+  /* Type valid CSS here */
+}
+#custom-html-p .my-image {
+  width: 100%;
+}
+#content1-q DIV {
+  text-align: left;
+  font-size: 13px;
+  color: #ffffff;
+}
