@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Association Apps",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 4,
+    "uniqCompNum": 10,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -35,7 +35,7 @@
         "title": "Association Apps",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "\n\n",
+        "footer_custom": "\n",
         "html_before": ""
       },
       "components": [
@@ -86,7 +86,7 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-3",
+          "_anchor": "content1-6",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -94,14 +94,85 @@
           },
           "text": "The experienced and caring team at Specialty incorporates almost three decades of experience with professionalism, innovation, highly developed systems and an unrelenting focus on people to provide some of the finest management service available to community associations<div><br></div><div>At Specialty Management, we pledge to work hard to provide honest friendly and professional service for your community.&nbsp; We will diligently strive to look for solutions, take the time to listen, and provide you with the assurance that we truly care.</div>",
           "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
             "DIV": {
-              "color": "#ffffff",
-              "font-size": "13px"
+              "text-align": "left",
+              "font-size": "13px",
+              "color": "#ffffff"
             }
           }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Association Apps",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "\n<html>\n<head>\n</head>\n<body>\n<img style=\"width: 320px; height: 320px;\" alt=\"bird png\"\nsrc=\"file:///C:/Apps/Association%20Apps/Photos/Specialty%20Management%20Company/bird.png\"><span\nstyle=\"color: rgb(255, 255, 255); font-family: Raleway,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 300; letter-spacing: normal; line-height: 19px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(0, 0, 128); display: inline ! important; float: none;\">The\nexperienced and caring team at Specialty incorporates almost three\ndecades of experience with professionalism, innovation, highly\ndeveloped systems and an unrelenting focus on people to provide some of\nthe finest management service available to community associations</span>\n<div\nstyle=\"text-align: left; font-size: 13px; color: rgb(255, 255, 255); font-family: Raleway,sans-serif; font-style: normal; font-variant: normal; font-weight: 300; letter-spacing: normal; line-height: 19px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(0, 0, 128);\"><br\nstyle=\"\">\n</div>\n<div\nstyle=\"text-align: left; font-size: 13px; color: rgb(255, 255, 255); font-family: Raleway,sans-serif; font-style: normal; font-variant: normal; font-weight: 300; letter-spacing: normal; line-height: 19px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(0, 0, 128);\">At\nSpecialty Management, we pledge to work hard to provide honest friendly\nand professional service for your community.&nbsp; We will diligently\nstrive to look for solutions, take the time to listen, and provide you\nwith the assurance that we truly care.</div>\n</body>\n</html>\n\n",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "30px"
+            },
+            "SMALL": {
+              "color": "#b8312f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#000080",
+            "showMeta": true
+          },
+          "title": "My Association App",
+          "meta": "by specialty management company"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n\n\n\n<div style=\"text-align: center;\"><img style=\"max-width: 100%; height: auto;\" alt=\"fountain jpg\" src=\"@PROJECT_PATH@/assets/images/dsc00015-x2000.jpg\"></div>\n\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-8"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "text-align": "left",
+              "font-size": "13px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-9",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000080"
+          },
+          "text": ""
         }
       ]
     }
