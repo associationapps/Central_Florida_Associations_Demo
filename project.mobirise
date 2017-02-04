@@ -34,7 +34,7 @@
         "main": true,
         "title": "Association Apps",
         "meta_descr": "",
-        "header_custom": "style=\"background-color: rgb(0, 0, 128); padding-top: 20px; padding-bottom: 0px;\">",
+        "header_custom": "",
         "footer_custom": "\n\n",
         "html_before": ""
       },
