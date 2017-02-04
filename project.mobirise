@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Association Apps",
-    "currentPage": "page4.html",
+    "currentPage": "test_index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -181,7 +181,7 @@
         "title": "Association Apps",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<html>\n<head>\n</head>\n<body style=\"background-color: navy; color: rgb(0, 0, 0);\"\nalink=\"#ee0000\" link=\"#0000ee\" vlink=\"#551a8b\">\n<img style=\"width: 224px; height: 173px;\" alt=\"100 png\"\nsrc=\"file:///C:/Apps/Association%20Apps/Photos/Specialty%20Management%20Company/100%2520Decal%2520Web.png\"\nalign=\"left\"><span style=\"color: white;\">The experienced and caring\nteam at Specialty incorporates almost three decades of experience with\nprofessionalism, innovation, highly developed systems and an\nunrelenting focus on people to provide some of the finest management\nservice available to community associations</span><br\nstyle=\"color: white;\">\n<br style=\"color: white;\">\n<span style=\"color: white;\">At Specialty Management, we pledge to work\nhard to provide honest friendly and professional service for your\ncommunity.&nbsp; We will diligently strive to look for solutions, take\nthe time to listen, and provide you with the assurance that we truly\ncare.</span><br>\n<div style=\"text-align: center;\"></div>\n</body>\n</html>\n",
+        "footer_custom": "<html>\n<head>\n</head>\n<body style=\"background-color: navy; color: rgb(0, 0, 0);\"\nalink=\"#ee0000\" link=\"#0000ee\" vlink=\"#551a8b\">\n<img style=\"width: 224px; height: 173px;\" alt=\"100 png\" src=\"@PROJECT_PATH@/assets/images/small-bird.png\" align=\"left\" class=\"\">\nalign=\"left\"><span style=\"color: white;\">The experienced and caring\nteam at Specialty incorporates almost three decades of experience with\nprofessionalism, innovation, highly developed systems and an\nunrelenting focus on people to provide some of the finest management\nservice available to community associations</span><br\nstyle=\"color: white;\">\n<br style=\"color: white;\">\n<span style=\"color: white;\">At Specialty Management, we pledge to work\nhard to provide honest friendly and professional service for your\ncommunity.&nbsp; We will diligently strive to look for solutions, take\nthe time to listen, and provide you with the assurance that we truly\ncare.</span><br>\n<div style=\"text-align: center;\"></div>\n</body>\n</html>",
         "html_before": ""
       },
       "components": [
@@ -232,20 +232,20 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-6",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#000080"
-          },
-          "text": "The experienced and caring team at Specialty incorporates almost three decades of experience with professionalism, innovation, highly developed systems and an unrelenting focus on people to provide some of the finest management service available to community associations<div><br></div><div>At Specialty Management, we pledge to work hard to provide honest friendly and professional service for your community.&nbsp; We will diligently strive to look for solutions, take the time to listen, and provide you with the assurance that we truly care.</div>",
           "_styles": {
             "DIV": {
               "text-align": "left",
               "font-size": "13px",
               "color": "#ffffff"
             }
-          }
+          },
+          "_anchor": "content1-6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000080"
+          },
+          "text": "The experienced and caring team at Specialty incorporates almost three decades of experience with professionalism, innovation, highly developed systems and an unrelenting focus on people to provide some of the finest management service available to community associations<div><br></div><div>At Specialty Management, we pledge to work hard to provide honest friendly and professional service for your community.&nbsp; We will diligently strive to look for solutions, take the time to listen, and provide you with the assurance that we truly care.</div>"
         }
       ]
     },
