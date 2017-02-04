@@ -440,6 +440,13 @@ h6,
   font-size: 13px;
   color: #ffffff;
 }
+#header3-d .mbr-section-title,
+#header3-d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-d H3 {
+  color: #ffffff;
+}
 #header3-7 .mbr-section-title,
 #header3-7 .mbr-section-subtitle {
   text-align: center;
