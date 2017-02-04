@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 23,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -35,7 +35,7 @@
         "title": "Association Apps",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "",
+        "footer_custom": "<html>\n<head>\n</head>\n<body style=\"background-color: navy; color: rgb(0, 0, 0);\"\nalink=\"#ee0000\" link=\"#0000ee\" vlink=\"#551a8b\">\n<img style=\"width: 224px; height: 173px;\" alt=\"100 png\"\nsrc=\"file:///C:/Apps/Association%20Apps/Photos/Specialty%20Management%20Company/100%2520Decal%2520Web.png\"\nalign=\"left\"><span style=\"color: white;\">The experienced and caring\nteam at Specialty incorporates almost three decades of experience with\nprofessionalism, innovation, highly developed systems and an\nunrelenting focus on people to provide some of the finest management\nservice available to community associations</span><br\nstyle=\"color: white;\">\n<br style=\"color: white;\">\n<span style=\"color: white;\">At Specialty Management, we pledge to work\nhard to provide honest friendly and professional service for your\ncommunity.&nbsp; We will diligently strive to look for solutions, take\nthe time to listen, and provide you with the assurance that we truly\ncare.</span><br>\n<div style=\"text-align: center;\"></div>\n</body>\n</html>\n",
         "html_before": ""
       },
       "components": [
@@ -102,18 +102,30 @@
           }
         },
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n\n\n\n<img style=\"width: 320px; height: 320px;\" alt=\"bird png\" src=\"@PROJECT_PATH@/assets/images/bird.png\"><span style=\"color: rgb(255, 255, 255); font-family: Raleway,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 300; letter-spacing: normal; line-height: 19px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(0, 0, 128); display: inline ! important; float: none;\">The\nexperienced and caring team at Specialty incorporates almost three\ndecades of experience with professionalism, innovation, highly\ndeveloped systems and an unrelenting focus on people to provide some of\nthe finest management service available to community associations</span>\n<div style=\"text-align: left; font-size: 13px; color: rgb(255, 255, 255); font-family: Raleway,sans-serif; font-style: normal; font-variant: normal; font-weight: 300; letter-spacing: normal; line-height: 19px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(0, 0, 128);\"><br style=\"\">\n</div>\n<div style=\"text-align: left; font-size: 13px; color: rgb(255, 255, 255); font-family: Raleway,sans-serif; font-style: normal; font-variant: normal; font-weight: 300; letter-spacing: normal; line-height: 19px; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: rgb(0, 0, 128);\">At\nSpecialty Management, we pledge to work hard to provide honest friendly\nand professional service for your community.&nbsp; We will diligently\nstrive to look for solutions, take the time to listen, and provide you\nwith the assurance that we truly care.</div>\n\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
           "_tags": [
-            "Extension"
+            "Theme"
           ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-e",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_name": "content2",
+          "_anchor": "content2-m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000080"
+          },
+          "text": ""
         }
       ]
     },
@@ -122,7 +134,7 @@
         "title": "Association Apps",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<img style=\"width: 320px; height: 320px;\" alt=\"bird png\"\nsrc=\"@PROJECT_PATH@/assets/images/bird.png\">",
+        "footer_custom": "<img style=\"width: 320px; height: 320px;\" alt=\"bird png\"\nsrc=\"file:///C:/Apps/Association%20Apps/Photos/Specialty%20Management%20Company/bird.png\">",
         "html_before": ""
       },
       "components": [
