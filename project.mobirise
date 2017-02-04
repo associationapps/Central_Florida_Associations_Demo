@@ -70,7 +70,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n\n\n\n<div style=\"text-align: center;\"><img style=\"width: 1333px; height: 1124px;\" alt=\"fountain jpg\" src=\"@PROJECT_PATH@/assets/images/dsc00015-x2000.jpg\"></div>\n\n",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n\n\n\n<div style=\"text-align: center;\"><img style=\"max-width: 100%; height: auto;\" alt=\"fountain jpg\" src=\"@PROJECT_PATH@/assets/images/dsc00015-x2000.jpg\"></div>\n\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
