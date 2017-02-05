@@ -515,29 +515,6 @@ h6,
   font-size: 13px;
   color: #ffffff;
 }
-#header3-o .mbr-section-title,
-#header3-o .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-o H3 {
-  color: #ffffff;
-  text-align: right;
-  font-size: 30px;
-}
-#header3-o SMALL {
-  color: #b8312f;
-}
-#custom-html-p {
-  /* Type valid CSS here */
-}
-#custom-html-p .my-image {
-  width: 100%;
-}
-#content1-q DIV {
-  text-align: left;
-  font-size: 13px;
-  color: #ffffff;
-}
 #content1-18 DIV {
   text-align: left;
   font-size: 13px;
@@ -564,4 +541,33 @@ h6,
 #header3-19 .mbr-section-title,
 #header3-19 .mbr-section-subtitle {
   text-align: center;
+}
+#header3-o .mbr-section-title,
+#header3-o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-o H3 {
+  color: #ffffff;
+  text-align: right;
+  font-size: 30px;
+}
+#header3-o SMALL {
+  color: #b8312f;
+}
+#custom-html-p {
+  /* Type valid CSS here */
+}
+#custom-html-p .my-image {
+  width: 100%;
+}
+#content1-q DIV {
+  text-align: left;
+  font-size: 13px;
+  color: #ffffff;
+}
+#custom-html-1d {
+  /* Type valid CSS here */
+}
+#custom-html-1d .my-image {
+  width: 100%;
 }

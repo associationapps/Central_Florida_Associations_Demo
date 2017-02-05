@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Association Apps",
-    "currentPage": "test_index.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 47,
+    "uniqCompNum": 50,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -34,7 +34,7 @@
         "title": "Association Apps",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<img style=\"width: 120px; height: 120px;\" alt=\"bird png\"\nsrc=\"@PROJECT_PATH@/assets/images/transbirdx1202.png\">",
+        "footer_custom": "<img style=\"width: 120px; height: 120px;\" alt=\"bird png\"\nsrc=\"@PROJECT_PATH@/assets/images/transbirdx1200.png\">",
         "html_before": ""
       },
       "components": [
@@ -250,16 +250,16 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n\n  \n    <meta content=\"text/html; charset=UTF-8\" http-equiv=\"content-type\">\n    <title></title>\n  \n  \n    <h1 style=\"text-align: center;\"><img alt=\"\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbirdx120.png\">My\n      Association App</h1>\n    <h6 style=\"text-align: center;\">by specialty management company</h6>\n    <p><br>\n    </p>\n    <p>The experienced and caring team at Specialty incorporates almost three\n      decades of experience with professionalism, innovation, highly developed\n      systems and an unrelenting focus on people to provide some of the finest\n      management service available to community associations.<br>\n    </p>\n    <h1 style=\"text-align: center;\"><img alt=\"\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/small_bird.png\"><br>\n      At Specialty Management, we pledge to work hard to provide honest friendly\n      and professional service for your community.&nbsp; We will diligently\n      strive to look for solutions, take the time to listen, and provide you\n      with the assurance that we truly care. </h1>\n    \n  \n\n",
+          "_customHTML": "<!-- Type valid HTML here -->\n  \n   \n<h1 style=\"text-align: center;\"><img alt=\"\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbirdx120.png\">My\nAssociation App</h1>\n<h6 style=\"text-align: center;\">by specialty management company</h6>\n<p><br>\n</p>\n<p style=\"text-align: left;\">The experienced and caring team at\nSpecialty incorporates almost three decades of experience with\nprofessionalism, innovation, highly developed systems and an\nunrelenting focus on people to provide some of the finest management\nservice available to community associations.<br>\n</p>\n<h1 style=\"text-align: center;\"><img alt=\"\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/small_bird.png\"><br>\n</h1>\n<div style=\"text-align: left;\"> At Specialty Management, we pledge to\nwork hard to provide honest friendly and professional service for your\ncommunity.&nbsp; We will diligently strive to look for solutions, take\nthe time to listen, and provide you with the assurance that we truly\ncare. </div>\n\n  ",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-1a",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-1a"
         }
       ]
     },
@@ -358,7 +358,158 @@
         }
       ]
     },
-    "index.html": {
+    "page6.html": {
+      "settings": {
+        "title": "Association Apps",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "<img style=\"width: 120px; height: 120px;\" alt=\"bird png\"\nsrc=\"@PROJECT_PATH@/assets/images/transbirdx1200.png\">\n",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgColor": "#000080"
+          },
+          "text": "",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0, 0, 128); padding-top: 0px; padding-bottom: 0px;\">\n<img style=\"width: 60px; height: 60px;\" alt=\"bird png\" src=\"@PROJECT_PATH@/assets/images/transbirdx1200.png\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"22\"></div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "DIV {\n\ttext-align: left;\n\tfont-size: 13px;\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "content1-18"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "30px"
+            },
+            "SMALL": {
+              "color": "#b8312f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-16",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000080",
+            "showMeta": true
+          },
+          "title": "My Association App",
+          "meta": "by specialty management company"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n\n\n\n<div style=\"text-align: center;\"><img style=\"max-width: 100%; height: auto;\" alt=\"fountain jpg\" src=\"@PROJECT_PATH@/assets/images/dsc00015-x2000.jpg\"></div>\n\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-17"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "<p><a href=\"#\">  <title></title>   </a></p><div style=\"text-align: center;\"><a href=\"#\">  <title></title>   </a><div style=\"text-align: center;\"><img style=\"width: 120px; height: 120px;\" alt=\"transbirdx120 png\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbirdx120.png\" align=\"bottom\"></div><a href=\"#\">  </a></div><a href=\"#\">  </a><p></p>",
+          "meta": ""
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "title": "Web Site Generator Title",
+        "meta_descr": "Web Site Generator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1c",
+          "_params": {
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0",
+            "overlayColor": "#000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/transbirdx120-1400x1400.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        }
+      ]
+    },
+    "Oldindex.html": {
       "settings": {
         "title": "Association Apps",
         "meta_descr": "",
@@ -444,94 +595,25 @@
         }
       ]
     },
-    "page6.html": {
+    "index.html": {
       "settings": {
-        "title": "Association Apps",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "<img style=\"width: 120px; height: 120px;\" alt=\"bird png\"\nsrc=\"@PROJECT_PATH@/assets/images/transbirdx1202.png\">\n",
-        "html_before": ""
+        "title": "Web Site Maker Title",
+        "meta_descr": "Web Site Maker Description"
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "7",
-            "bgColor": "#000080"
-          },
-          "text": "",
-          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0, 0, 128); padding-top: 0px; padding-bottom: 0px;\">\n<img style=\"width: 60px; height: 60px;\" alt=\"bird png\" src=\"@PROJECT_PATH@/assets/images/transbirdx1202.png\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"78\"></div>\n        </div>\n    </div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "DIV {\n\ttext-align: left;\n\tfont-size: 13px;\n\tcolor: #ffffff;\n}\n",
-          "_customTemplate": true,
-          "_anchor": "content1-18"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#ffffff",
-              "text-align": "right",
-              "font-size": "30px"
-            },
-            "SMALL": {
-              "color": "#b8312f"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-16",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#000080",
-            "showMeta": true
-          },
-          "title": "My Association App",
-          "meta": "by specialty management company"
-        },
-        {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n\n\n\n<div style=\"text-align: center;\"><img style=\"max-width: 100%; height: auto;\" alt=\"fountain jpg\" src=\"@PROJECT_PATH@/assets/images/dsc00015-x2000.jpg\"></div>\n\n",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n\n\n\n<span style=\"color: white; font-family: Helvetica,Arial,sans-serif;\"><img style=\"width: 120px; height: 120px;\" alt=\"bird png\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbirdx120.png\" align=\"left\">The experienced and caring team at Specialty incorporates\nalmost three decades of experience with professionalism, innovation,\nhighly developed systems and an unrelenting focus on people to provide\nsome of the finest management service available to community\nassociations</span><br style=\"color: white; font-family: Helvetica,Arial,sans-serif;\">\n<div style=\"text-align: center;\"><img style=\"width: 100px; height: 77px;\" alt=\"100 per cent local\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/100_local.png\"><br>\n</div>\n<span style=\"color: white; font-family: Helvetica,Arial,sans-serif;\">At\nSpecialty Management, we pledge to work hard to provide honest friendly\nand professional service for your community.&nbsp; We will diligently\nstrive to look for solutions, take the time to listen, and provide you\nwith the assurance that we truly care.</span>\n\n\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
+          "_anchor": "custom-html-1d",
           "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_anchor": "custom-html-17"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-19",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "<p><a href=\"#\">  <title></title>   </a></p><div style=\"text-align: center;\"><a href=\"#\">  <title></title>   </a><div style=\"text-align: center;\"><img style=\"width: 120px; height: 120px;\" alt=\"transbirdx120 png\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbirdx120.png\" align=\"bottom\"></div><a href=\"#\">  </a></div><a href=\"#\">  </a><p></p>",
-          "meta": ""
+          "_JSplaceholders": []
         }
       ]
     }
