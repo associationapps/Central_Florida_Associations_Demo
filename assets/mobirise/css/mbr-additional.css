@@ -486,6 +486,12 @@ h6,
   font-size: 13px;
   color: #ffffff;
 }
+#custom-html-1a {
+  /* Type valid CSS here */
+}
+#custom-html-1a .my-image {
+  width: 100%;
+}
 #header3-10 .mbr-section-title,
 #header3-10 .mbr-section-subtitle {
   text-align: center;
@@ -532,33 +538,30 @@ h6,
   font-size: 13px;
   color: #ffffff;
 }
-#custom-html-z {
-  /* Type valid CSS here */
+#content1-18 DIV {
+  text-align: left;
+  font-size: 13px;
+  color: #ffffff;
 }
-#custom-html-z .my-image img {
-  max-width: 100%;
-  height: auto;
-}
-#header3-13 .mbr-section-title,
-#header3-13 .mbr-section-subtitle {
+#header3-16 .mbr-section-title,
+#header3-16 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-13 H3 {
+#header3-16 H3 {
   color: #ffffff;
   text-align: right;
   font-size: 30px;
 }
-#header3-13 SMALL {
+#header3-16 SMALL {
   color: #b8312f;
 }
-#custom-html-14 {
+#custom-html-17 {
   /* Type valid CSS here */
 }
-#custom-html-14 .my-image {
+#custom-html-17 .my-image {
   width: 100%;
 }
-#content1-15 DIV {
-  text-align: left;
-  font-size: 13px;
-  color: #ffffff;
+#header3-19 .mbr-section-title,
+#header3-19 .mbr-section-subtitle {
+  text-align: center;
 }

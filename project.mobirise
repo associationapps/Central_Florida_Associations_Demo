@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Association Apps",
-    "currentPage": "index.html",
+    "currentPage": "test_index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 42,
+    "uniqCompNum": 47,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -34,7 +34,7 @@
         "title": "Association Apps",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<img style=\"width: 320px; height: 320px;\" alt=\"bird png\"\nsrc=\"file:///C:/Apps/Association%20Apps/Photos/Specialty%20Management%20Company/bird.png\">",
+        "footer_custom": "<img style=\"width: 120px; height: 120px;\" alt=\"bird png\"\nsrc=\"@PROJECT_PATH@/assets/images/transbirdx1202.png\">",
         "html_before": ""
       },
       "components": [
@@ -94,8 +94,8 @@
           },
           "_anchor": "content1-9",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "7",
+            "paddingBottom": "7",
             "bgColor": "#000080"
           },
           "text": ""
@@ -246,6 +246,20 @@
             "bgColor": "#000080"
           },
           "text": "The experienced and caring team at Specialty incorporates almost three decades of experience with professionalism, innovation, highly developed systems and an unrelenting focus on people to provide some of the finest management service available to community associations<div><br></div><div>At Specialty Management, we pledge to work hard to provide honest friendly and professional service for your community.&nbsp; We will diligently strive to look for solutions, take the time to listen, and provide you with the assurance that we truly care.</div>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n\n  \n    <meta content=\"text/html; charset=UTF-8\" http-equiv=\"content-type\">\n    <title></title>\n  \n  \n    <h1 style=\"text-align: center;\"><img alt=\"\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbirdx120.png\">My\n      Association App</h1>\n    <h6 style=\"text-align: center;\">by specialty management company</h6>\n    <p><br>\n    </p>\n    <p>The experienced and caring team at Specialty incorporates almost three\n      decades of experience with professionalism, innovation, highly developed\n      systems and an unrelenting focus on people to provide some of the finest\n      management service available to community associations.<br>\n    </p>\n    <h1 style=\"text-align: center;\"><img alt=\"\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/small_bird.png\"><br>\n      At Specialty Management, we pledge to work hard to provide honest friendly\n      and professional service for your community.&nbsp; We will diligently\n      strive to look for solutions, take the time to listen, and provide you\n      with the assurance that we truly care. </h1>\n    \n  \n\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-1a",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
@@ -344,12 +358,12 @@
         }
       ]
     },
-    "1index.html": {
+    "index.html": {
       "settings": {
         "title": "Association Apps",
         "meta_descr": "",
         "header_custom": "\n",
-        "footer_custom": "<html>\n<head>\n</head>\n<body style=\"background-color: navy; color: rgb(0, 0, 0);\"\nalink=\"#ee0000\" link=\"#0000ee\" vlink=\"#551a8b\">\n<img style=\"max-width: 100%; height: auto;\" alt=\"fountain jpg\"src=\"@PROJECT_PATH@/assets/images/small-bird.png\">\n<span style=\"color: white;\">\nThe experienced and caring\nteam at Specialty incorporates almost three decades of experience with\nprofessionalism, innovation, highly developed systems and an\nunrelenting focus on people to provide some of the finest management\nservice available to community associations</span><br\nstyle=\"color: white;\">\n<br style=\"color: white;\">\n<span style=\"color: white;\">At Specialty Management, we pledge to work\nhard to provide honest friendly and professional service for your\ncommunity.&nbsp; We will diligently strive to look for solutions, take\nthe time to listen, and provide you with the assurance that we truly\ncare.</span><br>\n<div style=\"text-align: center;\"></div>\n</body>\n</html>",
+        "footer_custom": "<html>\n<head>\n</head>\n<body style=\"background-color: navy; color: rgb(0, 0, 0);\"\nalink=\"#ee0000\" link=\"#0000ee\" vlink=\"#551a8b\">\n<body>\n<img style=\"max-width: 100%; height: auto;\" alt=\"transbirdx120 png\"\nsrc=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbirdx120.png\">\n</body>\n<span style=\"color: white;\">\nThe experienced and caring\nteam at Specialty incorporates almost three decades of experience with\nprofessionalism, innovation, highly developed systems and an\nunrelenting focus on people to provide some of the finest management\nservice available to community associations</span><br\nstyle=\"color: white;\">\n<br style=\"color: white;\">\n<span style=\"color: white;\">At Specialty Management, we pledge to work\nhard to provide honest friendly and professional service for your\ncommunity.&nbsp; We will diligently strive to look for solutions, take\nthe time to listen, and provide you with the assurance that we truly\ncare.</span><br>\n<div style=\"text-align: center;\"></div>\n</body>\n</html>",
         "html_before": ""
       },
       "components": [
@@ -409,25 +423,11 @@
           },
           "_anchor": "content1-q",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "3",
+            "paddingTop": "7",
+            "paddingBottom": "7",
             "bgColor": "#000080"
           },
           "text": ""
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n\n<title></title>\n\n\n<div style=\"text-align: left;\"><img style=\"width: 120px; height: 120px;\" alt=\"transbirdx120 png\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbirdx120.png\"></div>\n\n\n\n\n\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image img {\n    max-width: 100%;\n    height: auto;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_anchor": "custom-html-z"
         },
         {
           "_tags": [
@@ -444,12 +444,12 @@
         }
       ]
     },
-    "index.html": {
+    "page6.html": {
       "settings": {
         "title": "Association Apps",
         "meta_descr": "",
-        "header_custom": "<br/><br><br><br> <br><br><br><img style=\"width: 120px; height: 120px;\" alt=\"transbird png\"\nsrc=\"file:///C:/Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbird.png\">\n<br>",
-        "footer_custom": "<html>\n<head>\n</head>\n<body style=\"background-color: navy; color: rgb(0, 0, 0);\"\nalink=\"#ee0000\" link=\"#0000ee\" vlink=\"#551a8b\">\n<img style=\"width: 224px; height: 173px;\" alt=\"100 png\" src=\"file:///C:/Apps/Association%20Apps/Photos/Specialty%20Management%20Company/small_bird.png\" align=\"left\"\nalign=\"bottom\"></div> class=\"\">\nalign=\"left\"><span style=\"color: white;\">The experienced and caring\nteam at Specialty incorporates almost three decades of experience with\nprofessionalism, innovation, highly developed systems and an\nunrelenting focus on people to provide some of the finest management\nservice available to community associations</span><br\nstyle=\"color: white;\">\n<br style=\"color: white;\">\n<span style=\"color: white;\">At Specialty Management, we pledge to work\nhard to provide honest friendly and professional service for your\ncommunity.&nbsp; We will diligently strive to look for solutions, take\nthe time to listen, and provide you with the assurance that we truly\ncare.</span><br>\n<div style=\"text-align: center;\"></div>\n</body>\n</html>",
+        "header_custom": "",
+        "footer_custom": "<img style=\"width: 120px; height: 120px;\" alt=\"bird png\"\nsrc=\"@PROJECT_PATH@/assets/images/transbirdx1202.png\">\n",
         "html_before": ""
       },
       "components": [
@@ -457,26 +457,52 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "7",
+            "bgColor": "#000080"
+          },
+          "text": "",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0, 0, 128); padding-top: 0px; padding-bottom: 0px;\">\n<img style=\"width: 60px; height: 60px;\" alt=\"bird png\" src=\"@PROJECT_PATH@/assets/images/transbirdx1202.png\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"78\"></div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "DIV {\n\ttext-align: left;\n\tfont-size: 13px;\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "content1-18"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "text-align": "right",
+              "font-size": "30px"
+            },
+            "SMALL": {
+              "color": "#b8312f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
           "_name": "header3",
-          "_anchor": "header3-13",
+          "_anchor": "header3-16",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#000080",
             "showMeta": true
           },
-          "title": "<span style=\"line-height: 1.1;\">My Association App</span><br>",
-          "meta": "by specialty management company",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(0, 0, 128); padding-top: 0px; padding-bottom: 0px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-16\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"53\"><span style=\"line-height: 1.1;\">My Association App</span><br></h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"54\">by specialty management company</small>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\nH3 {\n\tcolor: #ffffff;\n\ttext-align: right;\n\tfont-size: 30px;\n}\nSMALL {\n\tcolor: #b8312f;\n}\n",
-          "_customTemplate": true
+          "title": "My Association App",
+          "meta": "by specialty management company"
         },
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n\n\n\n<div style=\"text-align: center;\"><img style=\"max-width: 100%; height: auto;\" alt=\"fountain jpg\" src=\"@PROJECT_PATH@/assets/images/dsc00015-x2000.jpg\"></div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n\n\n\n<div style=\"text-align: center;\"><img style=\"max-width: 100%; height: auto;\" alt=\"fountain jpg\" src=\"@PROJECT_PATH@/assets/images/dsc00015-x2000.jpg\"></div>\n\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -485,27 +511,27 @@
           "_name": "pro.custom-html",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_anchor": "custom-html-14"
+          "_anchor": "custom-html-17"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "text-align": "left",
-              "font-size": "13px",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "content1-15",
+          "_name": "header3",
+          "_anchor": "header3-19",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000080"
+            "bgColor": "#fff",
+            "showMeta": true
           },
-          "text": "The experienced and caring team at Specialty incorporates almost three decades of experience with professionalism, innovation, highly developed systems and an unrelenting focus on people to provide some of the finest management service available to community associations<div><br></div><div>At Specialty Management, we pledge to work hard to provide honest friendly and professional service for your community.&nbsp; We will diligently strive to look for solutions, take the time to listen, and provide you with the assurance that we truly care.</div>"
+          "title": "<p><a href=\"#\">  <title></title>   </a></p><div style=\"text-align: center;\"><a href=\"#\">  <title></title>   </a><div style=\"text-align: center;\"><img style=\"width: 120px; height: 120px;\" alt=\"transbirdx120 png\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbirdx120.png\" align=\"bottom\"></div><a href=\"#\">  </a></div><a href=\"#\">  </a><p></p>",
+          "meta": ""
         }
       ]
     }
