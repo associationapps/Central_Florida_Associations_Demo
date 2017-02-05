@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Association Apps",
-    "currentPage": "index.html",
+    "currentPage": "test_index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 31,
+    "uniqCompNum": 36,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -205,7 +205,7 @@
           "_name": "header3",
           "_anchor": "header3-0",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#000080",
             "showMeta": true
@@ -254,67 +254,10 @@
         "title": "Association Apps",
         "meta_descr": "",
         "header_custom": "\n",
-        "footer_custom": "<html>\n<head>\n</head>\n<body style=\"background-color: navy; color: rgb(0, 0, 0);\"\nalink=\"#ee0000\" link=\"#0000ee\" vlink=\"#551a8b\">\n<img style=\"max-width: 100%; height: auto;\" alt=\"fountain jpg\"src=\"@PROJECT_PATH@/assets/images/small-bird8.png\">\n<span style=\"color: white;\">\nThe experienced and caring\nteam at Specialty incorporates almost three decades of experience with\nprofessionalism, innovation, highly developed systems and an\nunrelenting focus on people to provide some of the finest management\nservice available to community associations</span><br\nstyle=\"color: white;\">\n<br style=\"color: white;\">\n<span style=\"color: white;\">At Specialty Management, we pledge to work\nhard to provide honest friendly and professional service for your\ncommunity.&nbsp; We will diligently strive to look for solutions, take\nthe time to listen, and provide you with the assurance that we truly\ncare.</span><br>\n<div style=\"text-align: center;\"></div>\n</body>\n</html>",
+        "footer_custom": "<html>\n<head>\n</head>\n<body style=\"background-color: navy; color: rgb(0, 0, 0);\"\nalink=\"#ee0000\" link=\"#0000ee\" vlink=\"#551a8b\">\n<img style=\"max-width: 100%; height: auto;\" alt=\"fountain jpg\"src=\"@PROJECT_PATH@/assets/images/small-bird2.png\">\n<span style=\"color: white;\">\nThe experienced and caring\nteam at Specialty incorporates almost three decades of experience with\nprofessionalism, innovation, highly developed systems and an\nunrelenting focus on people to provide some of the finest management\nservice available to community associations</span><br\nstyle=\"color: white;\">\n<br style=\"color: white;\">\n<span style=\"color: white;\">At Specialty Management, we pledge to work\nhard to provide honest friendly and professional service for your\ncommunity.&nbsp; We will diligently strive to look for solutions, take\nthe time to listen, and provide you with the assurance that we truly\ncare.</span><br>\n<div style=\"text-align: center;\"></div>\n</body>\n</html>",
         "html_before": ""
       },
       "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-u",
-          "_params": {
-            "imageSize": "20",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000080",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/transbirdx120-1400x1400.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "linkInNewWindow": false,
-              "name": "like",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "color": "#b8312f"
-            }
-          },
-          "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
-        },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
@@ -340,7 +283,7 @@
             "bgColor": "#000080",
             "showMeta": true
           },
-          "title": "My Association App",
+          "title": "<p></p><p>My Association App</p><p></p>",
           "meta": "by specialty management company"
         },
         {
@@ -376,6 +319,20 @@
             "bgColor": "#000080"
           },
           "text": ""
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n\n<title></title>\n\n\n<div style=\"text-align: left;\"><img style=\"width: 120px; height: 120px;\" alt=\"transbirdx120 png\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbirdx120.png\"></div>\n\n\n\n\n\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image img {\n    max-width: 100%;\n    height: auto;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-z"
         },
         {
           "_tags": [

@@ -509,3 +509,10 @@ h6,
   font-size: 13px;
   color: #ffffff;
 }
+#custom-html-z {
+  /* Type valid CSS here */
+}
+#custom-html-z .my-image img {
+  max-width: 100%;
+  height: auto;
+}
