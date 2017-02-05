@@ -486,6 +486,29 @@ h6,
   font-size: 13px;
   color: #ffffff;
 }
+#header3-10 .mbr-section-title,
+#header3-10 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-10 H3 {
+  color: #ffffff;
+  text-align: right;
+  font-size: 30px;
+}
+#header3-10 SMALL {
+  color: #b8312f;
+}
+#custom-html-11 {
+  /* Type valid CSS here */
+}
+#custom-html-11 .my-image {
+  width: 100%;
+}
+#content1-12 DIV {
+  text-align: left;
+  font-size: 13px;
+  color: #ffffff;
+}
 #header3-o .mbr-section-title,
 #header3-o .mbr-section-subtitle {
   text-align: center;
@@ -515,4 +538,27 @@ h6,
 #custom-html-z .my-image img {
   max-width: 100%;
   height: auto;
+}
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-13 H3 {
+  color: #ffffff;
+  text-align: right;
+  font-size: 30px;
+}
+#header3-13 SMALL {
+  color: #b8312f;
+}
+#custom-html-14 {
+  /* Type valid CSS here */
+}
+#custom-html-14 .my-image {
+  width: 100%;
+}
+#content1-15 DIV {
+  text-align: left;
+  font-size: 13px;
+  color: #ffffff;
 }
