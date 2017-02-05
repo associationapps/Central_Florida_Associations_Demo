@@ -34,7 +34,7 @@
         "title": "Association Apps",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<img style=\"width: 120px; height: 120px;\" alt=\"bird png\"\nsrc=\"@PROJECT_PATH@/assets/images/transbirdx1200.png\">",
+        "footer_custom": "<img style=\"width: 120px; height: 120px;\" alt=\"bird png\"\nsrc=\"@PROJECT_PATH@/assets/images/transbirdx1201.png\">",
         "html_before": ""
       },
       "components": [
@@ -363,7 +363,7 @@
         "title": "Association Apps",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<img style=\"width: 120px; height: 120px;\" alt=\"bird png\"\nsrc=\"@PROJECT_PATH@/assets/images/transbirdx1200.png\">\n",
+        "footer_custom": "<img style=\"width: 120px; height: 120px;\" alt=\"bird png\"\nsrc=\"@PROJECT_PATH@/assets/images/transbirdx1201.png\">\n",
         "html_before": ""
       },
       "components": [
@@ -378,7 +378,7 @@
             "bgColor": "#000080"
           },
           "text": "",
-          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0, 0, 128); padding-top: 0px; padding-bottom: 0px;\">\n<img style=\"width: 60px; height: 60px;\" alt=\"bird png\" src=\"@PROJECT_PATH@/assets/images/transbirdx1200.png\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"22\"></div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0, 0, 128); padding-top: 0px; padding-bottom: 0px;\">\n<img style=\"width: 60px; height: 60px;\" alt=\"bird png\" src=\"@PROJECT_PATH@/assets/images/transbirdx1201.png\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"22\"></div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "DIV {\n\ttext-align: left;\n\tfont-size: 13px;\n\tcolor: #ffffff;\n}\n",
@@ -604,7 +604,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n\n\n\n<span style=\"color: white; font-family: Helvetica,Arial,sans-serif;\"><img style=\"width: 120px; height: 120px;\" alt=\"bird png\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbirdx120.png\" align=\"left\">The experienced and caring team at Specialty incorporates\nalmost three decades of experience with professionalism, innovation,\nhighly developed systems and an unrelenting focus on people to provide\nsome of the finest management service available to community\nassociations</span><br style=\"color: white; font-family: Helvetica,Arial,sans-serif;\">\n<div style=\"text-align: center;\"><img style=\"width: 100px; height: 77px;\" alt=\"100 per cent local\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/100_local.png\"><br>\n</div>\n<span style=\"color: white; font-family: Helvetica,Arial,sans-serif;\">At\nSpecialty Management, we pledge to work hard to provide honest friendly\nand professional service for your community.&nbsp; We will diligently\nstrive to look for solutions, take the time to listen, and provide you\nwith the assurance that we truly care.</span>\n\n\n",
+          "_customHTML": "\n\n\n\n<span style=\"color: white; font-family: Helvetica,Arial,sans-serif;\"><img style=\"width: 120px; height: 120px;\" alt=\"bird png\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/transbirdx120.png\" align=\"left\">The experienced and caring team at Specialty incorporates\nalmost three decades of experience with professionalism, innovation,\nhighly developed systems and an unrelenting focus on people to provide\nsome of the finest management service available to community\nassociations</span><br style=\"color: white; font-family: Helvetica,Arial,sans-serif;\">\n<div style=\"text-align: center;\"><img style=\"width: 100px; height: 77px;\" alt=\"100 per cent local\" src=\"../../../Apps/Association%20Apps/Photos/Specialty%20Management%20Company/100_local.png\"><br>\n</div>\n<span style=\"color: white; font-family: Helvetica,Arial,sans-serif;\">At\nSpecialty Management, we pledge to work hard to provide honest friendly\nand professional service for your community.&nbsp; We will diligently\nstrive to look for solutions, take the time to listen, and provide you\nwith the assurance that we truly care.</span>\n\n\n\n\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
